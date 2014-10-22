@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>url1</key>
+	<string>http://www.example.jp/1<string>
+	<key>url2</key>
+	<string>http://www.example.jp/2<string>
+	<key>url3</key>
+	<string>http://www.example.jp/3<string>
+	<key>url4</key>
+	<string>http://www.example.jp/4<string>
+	<key>url5</key>
+	<string>http://www.example.jp/5<string>
+	<key>url6</key>
+	<string>http://www.example.jp/6<string>
+	<key>url7</key>
+	<string>http://www.example.jp/7<string>
+	<key>url8</key>
+	<string>http://www.example.jp/8<string>
+	<key>url9</key>
+	<string>http://www.example.jp/9<string>
+	<key>url10</key>
+	<string>http://www.example.jp/10<string>
+	<key>url11</key>
+	<string>http://www.example.jp/11<string>
+	<key>url12</key>
+	<string>http://www.example.jp/12<string>
+	<key>url13</key>
+	<string>http://www.example.jp/13<string>
+	<key>url14</key>
+	<string>http://www.example.jp/14<string>
+	<key>url15</key>
+	<string>http://www.example.jp/15<string>
+	<key>url16</key>
+	<string>http://www.example.jp/16<string>
+	<key>url17</key>
+	<string>http://www.example.jp/17<string>
+	<key>url18</key>
+	<string>http://www.example.jp/18<string>
+	<key>url19</key>
+	<string>http://www.example.jp/19<string>
+	<key>url20</key>
+	<string>http://www.example.jp/20<string>
+</dict>
+</plist>
